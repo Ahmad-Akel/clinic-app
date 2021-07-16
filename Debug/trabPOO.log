@@ -1,0 +1,9 @@
+﻿  Appointment.cpp
+  Clinic.cpp
+  Exam.cpp
+  Patient.cpp
+  Service.cpp
+  trabPOO.cpp
+  Generating Code...
+C:\Users\mahmoud.wizzo\Desktop\trabPOO\Clinic.cpp(45): warning C4715: 'Clinic::totalBilled': not all control paths return a value
+  trabPOO.vcxproj -> C:\Users\mahmoud.wizzo\Desktop\trabPOO\Debug\trabPOO.exe
